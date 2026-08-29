@@ -18,5 +18,5 @@
 
 ## Run
 ```
-pip install __future__ json math random shutil subprocess sys threading time tkinter pathlib tkinter 
+pip install requests numpy pandas
 ```
