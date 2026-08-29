@@ -1,6 +1,6 @@
 # Minesweeper Neon Protocol — Rebuilt Editio
 
-##Features
+### Features
 
 - Main Menu
 - Difficulty
@@ -18,5 +18,6 @@
 
 ## Run
 ```
-pip install requests numpy pandas
+- pip install requests numpy pandas
+- Execute the run_windows file
 ```
