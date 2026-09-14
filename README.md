@@ -1,4 +1,4 @@
-# Minesweeper Neon Protocol — Rebuilt Editio
+# Minesweeper Neon Protocol — Rebuilt Editio ✨
 
 ### Features
 
